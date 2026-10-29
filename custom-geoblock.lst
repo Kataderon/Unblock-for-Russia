@@ -21,10 +21,6 @@ habrastorage.org
 developer.nvidia.com
 web.archive.org
 
-# Twitch
-gql.twitch.tv
-usher.ttvnw.net
-
 # Adobe
 adobe-identity.com
 adobe-services.com
@@ -491,6 +487,10 @@ tmdb.org
 # Truth Social
 truthsocial.com
 
+# Twitch
+gql.twitch.tv
+usher.ttvnw.net
+
 # WB Games
 wbagora.com
 wbgames.com
@@ -531,6 +531,4 @@ res.cloudinary.com
 ti.com
 tria.ge
 ultimaker.com
-
 weborama.nl
-

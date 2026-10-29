@@ -136,6 +136,7 @@ gemini.google.com
 generativelanguage.googleapis.com
 gew1-spclient.spotify.com
 gpt3-openai.com
+gql.twitch.tv
 grok.com
 grok.x.com
 gssv-play-prod.xboxlive.com
@@ -331,6 +332,7 @@ nflxso.net
 nflxvideo.net
 notebooklm.google
 notebooklm.google.com
+notion-emojis.s3-us-west-2.amazonaws.com
 notion-media.com
 notion-static.com
 notion.ai
